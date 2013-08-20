@@ -1,6 +1,6 @@
 # Tests the Teenager class.  I'm not recalling the exact mocking syntax, and I'm
 #   on a train without wifi (thus unable to research it.) Having to require
-#   Message smells a little bit, and I'd much rather mock it.
+#   Message smells a little bit, and I'd much rather stub/mock it.
 
 require 'minitest/autorun'
 
